@@ -6,6 +6,7 @@ public class BookingAnewRoom {
 		// TODO Auto-generated method stub
 
 	System.out.println("booking a new room");
+	System.out.println("I need one more room");
 	
 	}
 
