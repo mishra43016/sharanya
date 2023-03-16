@@ -1,8 +1,8 @@
 package testcases;
 
 public class BookingAnewRoom {
-int x=100,y=200,z=300;
 
+int a=10,b=20,c=30;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
